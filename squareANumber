@@ -1,0 +1,7 @@
+// The function below receives a number input from the user and provides the number squared in an alert.
+function squareANumber (numberToSquare){
+    var squareANumber = prompt("Please enter a number to square.");
+    var numberSquared = squareANumber * squareANumber;
+    alert(squareANumber + ' squared is equal to ' + numberSquared + '!')
+}
+squareANumber();
