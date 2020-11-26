@@ -1,0 +1,7 @@
+Function(addTwoSums){
+var (Num1) = prompt('Please enter the first number to add.');
+var (Num2) = prompt('Please enter the second number to add.');
+var Sum = Number(Num1) + Number(Num2);
+alert("The sum of your two numbers should be... " + Sum);
+}
+addTwoSums();
