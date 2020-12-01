@@ -1,0 +1,18 @@
+// Storing Various Data Types in Variables
+
+// String
+var CustomerName = 'John doe';
+// Number
+var CustomerBalance = 2000.98;
+// String
+var CustomerAddress = '100 Main St, New York NY, 33344'
+// Print the information to console
+console.log(CustomerName);
+console.log(CustomerBalance);
+console.log(CustomerAddress);
+//Prompt to store data to a variable
+var CustomerName = prompt('Please enter your name so that we may update it.');
+// Print the updated information which includes the name change
+console.log(CustomerName);
+console.log(CustomerBalance);
+console.log(CustomerAddress);
