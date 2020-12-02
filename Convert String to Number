@@ -1,4 +1,4 @@
-// Converting strings to numbers 
+// Converting strings to numbers
 
 // Declare a string variable from input from the user twice
 var first = prompt("Please enter a number to add.");
