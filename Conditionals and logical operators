@@ -1,0 +1,41 @@
+// Javascript Conditionals
+// if
+// else
+// else if
+// ternary operator
+// switch
+
+//If _ else Conditional
+
+let name = prompt('Please enter your name!');
+if (name === 'Billy'){
+    alert("Hi Billy");
+} else {
+    alert('I only know Billy');
+}
+
+// Else If Conditional
+
+let name = prompt('Please enter your name!');
+if (name === 'Billy'){
+    alert("Hi Billy");
+} else if (name === 'billy') {
+    alert("That/'s Billy with a capital B!");
+}  else {
+    alert('I only know Billy');
+}
+
+// Logical Operators
+// && (and)
+// || (or)
+// !
+
+//And operator
+
+let firstName = 'Bob';
+let lastName = 'Smith';
+if (firstName === 'Bob' && lastName === 'Smith') {
+    alert('Hello, Bob Smith!');
+} else {
+    alert("You're not Bob Smith...");
+}
