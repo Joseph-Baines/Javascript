@@ -1,0 +1,26 @@
+// Logical Operators
+// && (and)
+// || (or)
+// !
+
+//And operator
+
+let firstName = 'Bob';
+let lastName = 'Smith';
+if (firstName === 'Bob' && lastName === 'Smith') {
+    alert('Hello, Bob Smith!');
+} else {
+    alert("You're not Bob Smith...");
+}
+
+// Or Operator
+
+if (firstName === 'Bob' || firstName === 'Bobby'){
+    alert('Hello Bob or Bobby!');
+}
+
+// Not operator
+
+if (!(firstName === 'Bob')){
+    alert("You're not Bob.");
+}
