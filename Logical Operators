@@ -17,7 +17,7 @@ if (firstName === 'Bob' && lastName === 'Smith') {
 
 if (firstName === 'Bob' || firstName === 'Bobby'){
     alert('Hello Bob or Bobby!');
-} 
+}
 
 // Not operator
 
