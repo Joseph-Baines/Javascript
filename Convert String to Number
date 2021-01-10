@@ -6,3 +6,4 @@ var second = prompt('Please enter a second number to add');
 // Declare a variable consisting of the two strings being converted to numbers and added
 var sum = Number(first) + Number(second);
 alert('The two numbers added are: ' + sum);
+ 
