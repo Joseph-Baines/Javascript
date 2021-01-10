@@ -13,7 +13,7 @@ if (name === 'Billy'){
 } else {
     alert('I only know Billy');
 }
-
+ 
 // Else If Conditional
 
 let name = prompt('Please enter your name!');
