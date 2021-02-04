@@ -5,7 +5,7 @@
 let students = [];
 
 // An array of strings
-
+ 
 let colorList = ['red', 'orange', 'yellow'];
 
 // An array of numbers
